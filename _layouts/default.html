@@ -11,7 +11,7 @@
     <header class="site-header">
       <nav class="site-nav">
         {% for page in site.pages %}
-          {% if page.title and page.path in site.header_pages %}
+          {% if page.title and site.header_pages contains page.path %}
             <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
@@ -27,3 +27,6 @@
     </footer>
   </body>
 </html>
+
+
+
