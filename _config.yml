@@ -1,3 +1,13 @@
 title: Missing In San Diego
 description: A website for our GEO 583 group project!
 theme: minima
+
+# Add this section:
+header_pages:
+  - index.md
+  - about.md
+  - team.md
+  - map1.md
+  - map2.md
+  - conclusion.md
+
