@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Map 1
+title: ArcGIS Insights
 ---
 
-# First Map
-Explain or embed the first map here.
+This were we will need to embed our first map.
