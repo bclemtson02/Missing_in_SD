@@ -11,3 +11,15 @@ header_pages:
   - map2.md
   - conclusion.md
 
+# Make sure custom CSS is included
+include:
+  - assets/css
+
+# Enable custom SASS processing (optional but clean)
+sass:
+  style: compressed
+
+# Minima-specific settings (optional if you're overriding layout)
+minima:
+  skin: classic
+  social_links: []  # You can add links later like GitHub, Email, etc.
