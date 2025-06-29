@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Map 2
+title: ArcGIS Dashboard
 ---
 
-# Second Map
-Explain or embed the second map here.
+This is where we will need to embed our Dashboard.
