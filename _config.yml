@@ -22,4 +22,4 @@ sass:
 # Minima-specific settings (optional if you're overriding layout)
 minima:
   skin: classic
-  social_links: []  # You can add links later like GitHub, Email, etc.
+  
