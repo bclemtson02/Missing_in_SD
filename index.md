@@ -10,6 +10,6 @@ Ex. We are a group of 4 students from SDSU GC. This is our final project for GEO
 to create a visual of the current issue involving Missing Persons in SD County. 
 
 Our data was received from the Police Station via request.
-The [*Missing Person's Data*](assets/files/Cleaned_Missing_Persons_Data_with_Coordinates.xlsx) contains important demographic information such as, race, age, and gender.
+The [*Missing Person's Data*](assets/files/Cleaned_Missing_Persons_Data_with_Coordinates.xlsx) contains important demographic information such as race, age, and gender.
 It also includes the reason for the person going missing as well as the locations.
 
