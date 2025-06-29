@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-# Meet the Team 
+# Signal for the Silent  
 
 ## Pilar De Haro:
 
