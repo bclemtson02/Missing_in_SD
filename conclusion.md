@@ -4,4 +4,4 @@ title: Conclusion
 ---
 
 # Final Thoughts
-Wrap up the findings or summary of your project.
+This is where we wrap everything together.
