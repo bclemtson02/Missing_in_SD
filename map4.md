@@ -3,10 +3,10 @@ layout: page
 title: ArcGIS Embedded Map
 ---
 
+# Student Poverty & Missing Youth Map
+
 <!-- Load ArcGIS Embeddable Components -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.33/arcgis-embeddable-components.esm.js"></script>
-
-# Student Poverty & Missing Youth Map
 
 This interactive map uses Census data on school-enrolled children aged 3 and above to visualize poverty rates across San Diego County.  
 It overlays these trends with the locations of missing youth (ages 13–17), revealing a strong spatial correlation in many census tracts.
