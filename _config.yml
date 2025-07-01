@@ -9,6 +9,8 @@ header_pages:
   - team.md
   - map1.md
   - map2.md
+  - map3.md
+  - map4.md
   - conclusion.md
 
 # Make sure custom CSS is included
