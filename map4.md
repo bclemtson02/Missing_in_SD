@@ -8,8 +8,13 @@ title: ArcGIS Embedded Map
 <!-- Load ArcGIS Embeddable Components -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.33/arcgis-embeddable-components.esm.js"></script>
 
-This interactive map uses Census data on school-enrolled children aged 3 and above to visualize poverty rates across San Diego County.  
-It overlays these trends with the locations of missing youth (ages 13–17), revealing a strong spatial correlation in many census tracts.
+This map overlays two datasets: Student poverty levels by school enrollment (shown in shades from yellow to dark blue, where darker blue represents higher levels of poverty)  and Missing youth aged 13-17 (represented by red triangles, with larger triangles indicating a higher count of missing teens).
+
+The largest red triangles, indicating neighborhoods with the highest numbers of missing teens, appear in central areas like Kearny Mesa, Downtown, Encanto overlapping with darker blue census tracts that show higher levels of student poverty.
+
+Similarly, several clusters in South County, including parts of San Ysidro and Otay Mesa, also show this overlap. Outlying areas with lighter colors (lower student poverty) generally have smaller or no red markers, indicating fewer missing youth cases.
+
+Combining these two layers highlights a concerning spatial pattern: neighborhoods with higher rates of student poverty often coincide with areas reporting more missing teenagers. This suggests that economic hardship may be a factor contributing to youth vulnerability, possibly tied to instability at home, lack of resources, or increased exposure to exploitation.
 
 <div style="width: 100%; max-width: 900px; height: 600px; margin-top: 20px; border: 1px solid #ccc;">
   <arcgis-embedded-map 
