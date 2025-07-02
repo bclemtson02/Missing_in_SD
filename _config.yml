@@ -12,6 +12,7 @@ header_pages:
   - map3.md
   - map4.md
   - conclusion.md
+  - citations.md
 
 # Make sure custom CSS is included
 include:
