@@ -4,8 +4,9 @@ title: Home
 ---
 
 # Welcome to Our Group Project!
-
-<img src="/assets/images/SDSU.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
+<div style="text-align: center;">
+  <img src="./assets/files/SDSU.jpg" alt="Your description" style="width: auto; height: auto; border-radius: 8px;">
+</div>
 
 We are a group of 4 students from SDSU GC. This is our final project for GEOG 583. For our final project in GEOG 583, we are using ArcGIS Dashboards and Tableau to create visualizations that highlight the ongoing issue of Missing Persons in San Diego County.
 
