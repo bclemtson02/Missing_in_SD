@@ -8,7 +8,7 @@ title: Team
 ## Pilar De Haro
 
 <div style="display: flex; align-items: center; gap: 20px; margin: 40px 0;">
-  <img src="/assets/files/Pilar.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
+  <img src="./assets/files/Pilar.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
 
   <div>
     <p>
@@ -21,7 +21,7 @@ title: Team
 
 ## Bret Clemetson
 <div style="display: flex; align-items: center; gap: 20px; margin: 40px 0;">
-  <img src="/assets/files/Bret.jpeg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
+  <img src="./assets/files/Bret.jpeg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
 
   <div>
     <p>
@@ -32,7 +32,7 @@ title: Team
 
 ## Tallal Moshrif
 <div style="display: flex; align-items: center; gap: 20px; margin: 40px 0;">
-  <img src="/assets/files/Tallal.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
+  <img src="./assets/files/Tallal.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
 
   <div>
     <p>
