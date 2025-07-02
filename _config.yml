@@ -11,7 +11,6 @@ header_pages:
   - map2.md
   - map3.md
   - map4.md
-  - tableau.md
   - conclusion.md
 
 # Make sure custom CSS is included
