@@ -7,9 +7,18 @@ title: Team
 
 ## Pilar De Haro:
 
-Hi everyone,
+<div style="display: flex; align-items: center; gap: 20px; margin: 40px 0;">
+  <img src="/assets/images/Pilar.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
 
-I hope ya'll had a nice, long weekend. I'm Pilar, and originally from North County San Diego but at this point I consider myself an LA native (been here for 12 years). Some of my recent hobbies include watching live sports, and movies with my fiance. I'm taking this course as a requirement for the Big Data Analytics program and I'm looking forward to use and build on some of my mapping skills that I've acquired through my research lab. I believe this is the only course in the program that is 5 weeks, so I hope I can keep up!
+  <div>
+    <h3 style="margin-top: 0;">Bret Clemetson</h3>
+    <p>
+      Data analyst with experience across media, tech, and marketing, with a strong track record in dashboard development, campaign analysis, and privacy compliance. Adept at translating complex data into insights that drive strategic decisions.
+    </p>
+  </div>
+</div>
+
+
 
 ## Bret Clemetson
 Hi my name is Bret Clemetson, I am from and currently live in Los Angeles County. A few hobbies are golfing with friends and going to the park with my 13 month old son. I really enjoy watching, playing, and analyzing sports. That is why I am taking this program. I want to be able to analyze data within sports this course can help with analyzing off field data and being able to compare small and large markets.
