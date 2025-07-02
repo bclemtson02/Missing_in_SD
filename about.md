@@ -3,25 +3,10 @@ layout: default
 title: About
 ---
 
-# Project Summary
-This project aims to map and analyze missing persons data in San Diego County over
-the past five years, using records obtained from the San Diego Police Department
-through a public records request. The dataset includes demographic details and case
-descriptions, such as whether the case involved human trafficking or youth runaways.
-Our primary goal is to visualize where individuals were last reported missing and identify
-geographic patterns across the county. By layering this data with San Diego Census
-tract shapefiles, we will provide additional context using socioeconomic indicators like
-poverty and income levels, education attainment, and housing stability. This spatial
-approach allows us to explore the correlations between these structural, systematic
-factors and rates of disappearance.
+# Problem Statement
+This project explores patterns of missing people in San Diego County through web mapping, focusing on demographics and underlying social factors. Young people, especially teens, are heavily overrepresented in missing person cases, both locally and nationally. Nearly 1 in 20 adolescents run away each year, often due to family conflict, mental health struggles, or unstable home environments (Gambon & Gewirtz O’Brien, 2020). In San Diego, our data shows that teens aged 13–17 make up almost 90% of missing youth cases, with concentrations in central and southern neighborhoods.
 
-We will also use the demographic data provided to highlight racial disparities,
-particularly the overrepresentation of Black and Hispanic individuals among missing
-persons cases in the region. We plan to review academic literature and community-
-based reports to explore the root causes and systemic factors that may contribute to
-these disparities.
+These hotspots often overlap with areas of high student poverty, underscoring how economic hardship increases the risk of youth going missing (Tyler & Bersani, 2008 as cited by Gambon & Gewirtz O’Brien, 2020). Once away from home, teens face heightened risks of exploitation and trafficking, an issue affecting up to 38,000 people locally each year (Chisolm-Straker et al., 2019).
 
-The project’s overall objective is to raise public awareness, support data-informed policy
-conversations, and provide a tool for journalists, advocates, and researchers to explore
-spatial and demographic trends in missing persons cases. The final output will include a
-publicly accessible web map and summary findings.
+By using interactive web maps, this project highlights these spatial patterns to identify where targeted prevention and outreach is needed most.
+
