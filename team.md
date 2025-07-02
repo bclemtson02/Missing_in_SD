@@ -5,13 +5,12 @@ title: Team
 
 # Signal for the Silent  
 
-## Pilar De Haro:
+## Pilar De Haro
 
 <div style="display: flex; align-items: center; gap: 20px; margin: 40px 0;">
-  <img src="/assets/images/Pilar.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
+  <img src="/assets/files/Pilar.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
 
   <div>
-    <h3 style="margin-top: 0;">Bret Clemetson</h3>
     <p>
       Data analyst with experience across media, tech, and marketing, with a strong track record in dashboard development, campaign analysis, and privacy compliance. Adept at translating complex data into insights that drive strategic decisions.
     </p>
@@ -21,24 +20,27 @@ title: Team
 
 
 ## Bret Clemetson
-Hi my name is Bret Clemetson, I am from and currently live in Los Angeles County. A few hobbies are golfing with friends and going to the park with my 13 month old son. I really enjoy watching, playing, and analyzing sports. That is why I am taking this program. I want to be able to analyze data within sports this course can help with analyzing off field data and being able to compare small and large markets.
+<div style="display: flex; align-items: center; gap: 20px; margin: 40px 0;">
+  <img src="/assets/files/Bret.jpeg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
 
-I also enjoy gaining knowledge through audiobooks. I commute to work for about 7 hours every week. This is a great time to listen and learn instead of just driving. Recently I have listed to the Alchemist and Green Lights. I highly recommend audiobooks or podcasts for other commuters! 
-
-I worked with the CSUF softball team for three seasons and hope this Master's program helps my career advancement and lands me a job in an MLB team's front office. I currently work as a Supply Chain Analyst.
+  <div>
+    <p>
+      Sports Data Analyst passionate about bridging old and new school philosophies through data. Skilled in modeling tools and visualizations to drive modern insights.
+    </p>
+  </div>
+</div>
 
 ## Tallal Moshrif
-Hello everyone,
+<div style="display: flex; align-items: center; gap: 20px; margin: 40px 0;">
+  <img src="/assets/files/Tallal.jpg" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
 
-My name is Tallal Moshrif (pronounced Tall-All), and I’m from Glendora, a small city just east of Los Angeles.
+  <div>
+    <p>
+      Cloud focused data engineer with experience across SQL development, ETL pipelines, and Azure based solutions, with a strong track record in data integration and dashboarding. Adept at transforming complex datasets into actionable insights that support business strategy.
+    </p>
+  </div>
+</div>
 
-I currently work as a Porsche Ambassador, so life stays pretty busy with sales and client engagement. Outside of work, I enjoy spending time with my family, traveling when I can, and hanging out with my two French Bulldogs.
-
-I’m taking this class as part of the Big Data Analytics program, and I’m excited to build new skills with the technologies and tools we’ll be exploring.
-
-Feel free to reach out if you’d like to connect or collaborate!
-
-Thank you!
 
 ## Kasey Vo
 
