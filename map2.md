@@ -5,10 +5,10 @@ title: ArcGIS Dashboard 2
 
 # Missing People in SD by Race and Location
 
-Races identified in the missing peoples report as “Hispanic” “Black” and “White” were reported missing at higher rates than other races in this dataset. 
+The pie chart shows the racial breakdown of missing people in San Diego County. The largest groups reported missing are Hispanic (34.5%) and White (34.3%), each making up roughly a third of all cases. Black individuals represent nearly 24%, a notably high share relative to their overall population proportion in the county. Meanwhile, Asian individuals account for about 5%, and those categorized as Other make up roughly 2%.
 
+On the right, the map uses pie charts at different neighborhood locations to show how these racial proportions vary across the county. Larger pie charts generally appear over central areas such as Downtown San Diego, Kearny Mesa, and Logan Heights, indicating more missing persons overall in these neighborhoods. Areas like San Ysidro, Otay Mesa, and parts of Chula Vista also show sizable distributions. The concentration of cases in central and southern parts of the county may overlap with areas of economic disadvantage or higher youth populations, pointing to possible structural or social factors at play.
 
-The pie chart is interactive and dynamic to the map. If you click on any race on the pie chart it will be updated to show that on the map.
 
 <div style="width: 100%; height: 600px; margin-top: 20px;">
   <iframe 
