@@ -43,5 +43,13 @@ title: Team
 
 
 ## Kasey Vo
+<div style="display: flex; align-items: center; gap: 20px; margin: 40px 0;">
+  <img src="./assets/files/Kasey.png" alt="Your description" style="width: 150px; height: auto; border-radius: 8px;">
 
-Hello everyone, my name is Kasey (Kay-see) and I am originally from San Diego, California, but currently live in Austin Texas. In Austin, I love to explore new food places (since theres a lot of "interesting" food options here), and I love to go on long walks in downtown Austin. There is always something new to explore in Austin, so I usually never get bored around this part of the city. The reason I am taking this class as a requirement for my BDA courses, but I still see that this course will be very useful in the industry!
+  <div>
+    <p>
+      Sports Analyst at a Unified School district helping to improve high school sport outcomes.
+    </p>
+  </div>
+</div>
+
